@@ -1,0 +1,49 @@
+body {
+  background-image: linear-gradient(35deg, #ef476f, #06d6a0);
+  background-attachment: fixed;
+  text-align: center;
+}
+main {
+  font-family: monospace;
+}
+#title {
+  font-size: 50px;
+}
+ul {
+  max-width: 400px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+#img-div {
+  background-color: #073b4c;
+  margin: auto;
+  border-radius: 25px;
+  font-size: 25px;
+}
+#image {
+  padding: 60px 60px;
+  width: 100%;
+  height: auto;
+  max-width: 525px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 50%;
+}
+#tribute-info {
+  padding: 50px;
+}
+ul {
+  font-size: 20px;
+  line-height: 50px;
+}
+li {
+  padding: 20px;
+}
+p {
+  font-size: 20px;
+}
+h2 {
+  font-size: 30px;
+}

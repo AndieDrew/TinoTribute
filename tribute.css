@@ -3,18 +3,14 @@ body {
   background-attachment: fixed;
   text-align: center;
 }
-main {
+
+#main {
   font-family: monospace;
 }
 #title {
   font-size: 50px;
 }
-ul {
-  max-width: 400px;
-  margin: 0 auto 50px auto;
-  text-align: left;
-  line-height: 2;
-}
+
 #img-div {
   background-color: #073b4c;
   margin: auto;
@@ -34,16 +30,20 @@ ul {
 #tribute-info {
   padding: 50px;
 }
-ul {
+#timeline {
   font-size: 20px;
   line-height: 50px;
+  max-width: 400px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 2;
 }
 li {
   padding: 20px;
 }
-p {
+#discription {
   font-size: 20px;
 }
-h2 {
+#link {
   font-size: 30px;
 }
